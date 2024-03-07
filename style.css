@@ -1,4 +1,8 @@
 header{
-    background-color: #895f99;
-    color: rgb(192, 195, 197);
+    background-color: #be4f3b;
+    color: rgb(255, 255, 255);
+}
+
+.cabeçalho-imagem{
+    width:17%;
 }
