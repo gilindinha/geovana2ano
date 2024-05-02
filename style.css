@@ -14,6 +14,11 @@
     width:50%;
 }
 
+.escola-titulo{
+    color:black;
+    
+}
+
 .cabeçalho-lista-item{
     display: inline-block;
     margin: 0 16px;
