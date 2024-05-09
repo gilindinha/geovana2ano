@@ -15,11 +15,17 @@
 }
 
 .escola-titulo{
-    color:black;
+    color:rgb(43, 134, 92);
     
 }
 
 .cabeçalho-lista-item{
     display: inline-block;
     margin: 0 16px;
+}
+
+.imagem{
+    width: 20%;
+    text-align: center;
+    display: block ;
 }
